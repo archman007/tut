@@ -1,3 +1,5 @@
+Demo is at https://tut.rchman.us User demo password password
+
 # Tutorial Library
 
 A PHP-based tutorial management system built with an MVC architecture. Manage tutorials, videos, instructors, categories, tags, and playlists.
